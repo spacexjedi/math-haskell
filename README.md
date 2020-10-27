@@ -1,2 +1,2 @@
-# cipem
+# article project
 Mathematics resource
