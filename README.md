@@ -3,7 +3,7 @@ Mathematics resource
 
 
 - Books  
--- Learn You Haskell  
+-- Get Programming with Haskell  
 -- O Último Teorema de Femat  
 -- Brillant.org  
 
