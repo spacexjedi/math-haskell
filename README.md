@@ -8,7 +8,7 @@ Mathematics resource
 -- Brillant.org  
 
 - Next Read   
--- Book of proof 
+-- Book of proof    
 -- Article Haskell and Algebra  
 
 
